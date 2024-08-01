@@ -69,7 +69,7 @@
     <dependency>
       <groupId>org.webjars</groupId>
       <artifactId>bootstrap</artifactId>
-      <version>3.3.7</version>
+      <version>3.4.1</version>
     </dependency>
     <!--allow how swapping and other features like h2 gui-->
     <dependency>
